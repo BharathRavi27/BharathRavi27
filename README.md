@@ -14,7 +14,7 @@ Feel free to send a hi to <bharathravi27@gmail.com> or follow me on [twitter](ht
 - 💬 Ask me about front end development
 - 📃 read my blogs on [Medium](https://medium.com/@bharathravi27)
 
-# Blog posts
+### Blog posts 📕
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
