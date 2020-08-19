@@ -20,5 +20,4 @@ Feel free to send a hi to <bharathravi27@gmail.com> or follow me on [twitter](ht
 - [Learn Angular component design patterns from material components](https://levelup.gitconnected.com/learn-angular-component-design-patterns-from-material-components-58f8d072854a?source=rss-d3cb98938cdc------2)
 - [Create a Role-Based Show/Hide Directive in Angular](https://medium.com/better-programming/create-a-role-based-show-hide-directive-in-angular-8d83fca2eb69?source=rss-d3cb98938cdc------2)
 - [Mistakes I Made as an Angular Developer](https://levelup.gitconnected.com/mistakes-i-made-as-an-angular-developer-509277d60a10?source=rss-d3cb98938cdc------2)
-- [Create a custom form control component in Angular with Control Value Accessor](https://medium.com/javascript-in-plain-english/create-a-custom-form-control-component-in-angular-with-control-value-accessor-807f1304bcd7?source=rss-d3cb98938cdc------2)
 <!-- BLOG-POST-LIST:END -->
