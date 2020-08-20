@@ -17,6 +17,7 @@ Feel free to send a hi to <bharathravi27@gmail.com> or follow me on [twitter](ht
 ### Blog posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Added Dark Mode in My Personal Blog with Angular, CSS Variables and rxjs](https://medium.com/@bharathravi27/how-i-added-dark-mode-in-my-personal-blog-with-angular-css-variables-and-rxjs-a62056c52e16?source=rss-d3cb98938cdc------2)
 - [Learn Angular component design patterns from material components](https://levelup.gitconnected.com/learn-angular-component-design-patterns-from-material-components-58f8d072854a?source=rss-d3cb98938cdc------2)
 - [Create a Role-Based Show/Hide Directive in Angular](https://medium.com/better-programming/create-a-role-based-show-hide-directive-in-angular-8d83fca2eb69?source=rss-d3cb98938cdc------2)
 - [Mistakes I Made as an Angular Developer](https://levelup.gitconnected.com/mistakes-i-made-as-an-angular-developer-509277d60a10?source=rss-d3cb98938cdc------2)
