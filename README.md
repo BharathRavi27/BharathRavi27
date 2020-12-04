@@ -17,9 +17,9 @@ Feel free to send a hi to <bharathravi27@gmail.com> or follow me on [twitter](ht
 ### Blog posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [Implement Polling Using RxJS in Your Angular Application](https://medium.com/better-programming/implement-polling-using-rxjs-in-your-angular-application-278129d5a9a9?source=rss-d3cb98938cdc------2)
 - [Create an Elastic Input Angular Directive](https://medium.com/javascript-in-plain-english/create-an-elastic-input-angular-directive-b58d3e61185e?source=rss-d3cb98938cdc------2)
 - [Three Years of Web Development Career— Takeaways](https://levelup.gitconnected.com/three-years-of-web-development-career-takeaways-9d8df65c5cf6?source=rss-d3cb98938cdc------2)
 - [Why and How to Lazy Load Components in Angular](https://medium.com/better-programming/why-and-how-to-lazy-load-components-in-angular-b4aff3797c6d?source=rss-d3cb98938cdc------2)
 - [Why I Am Relearning Angular](https://levelup.gitconnected.com/why-i-am-relearning-angular-5308555f4e8e?source=rss-d3cb98938cdc------2)
-- [Create Resizable Table Columns with Angular Directives](https://levelup.gitconnected.com/create-resizable-table-columns-with-angular-directives-a9e0f5c1cbf7?source=rss-d3cb98938cdc------2)
 <!-- BLOG-POST-LIST:END -->
