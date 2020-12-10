@@ -17,9 +17,9 @@ Feel free to send a hi to <bharathravi27@gmail.com> or follow me on [twitter](ht
 ### Blog posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Created My First VS Code Extention](https://levelup.gitconnected.com/how-i-created-my-first-vs-code-extention-66d7d5ff7fbe?source=rss-d3cb98938cdc------2)
 - [Implement Polling Using RxJS in Your Angular Application](https://medium.com/better-programming/implement-polling-using-rxjs-in-your-angular-application-278129d5a9a9?source=rss-d3cb98938cdc------2)
 - [Create an Elastic Input Angular Directive](https://medium.com/javascript-in-plain-english/create-an-elastic-input-angular-directive-b58d3e61185e?source=rss-d3cb98938cdc------2)
 - [Three Years of Web Development Career— Takeaways](https://levelup.gitconnected.com/three-years-of-web-development-career-takeaways-9d8df65c5cf6?source=rss-d3cb98938cdc------2)
 - [Why and How to Lazy Load Components in Angular](https://medium.com/better-programming/why-and-how-to-lazy-load-components-in-angular-b4aff3797c6d?source=rss-d3cb98938cdc------2)
-- [Why I Am Relearning Angular](https://levelup.gitconnected.com/why-i-am-relearning-angular-5308555f4e8e?source=rss-d3cb98938cdc------2)
 <!-- BLOG-POST-LIST:END -->
