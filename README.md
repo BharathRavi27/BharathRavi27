@@ -12,7 +12,7 @@ Feel free to send a hi to <bharathravi27@gmail.com> or follow me on [twitter](ht
 - 🔥 I’m currently diving deep into [rxjs](RxJSrxjs-dev.firebaseapp.com)
 - 👯 I’m looking to collaborate on all sorts of javaScript project
 - 💬 Ask me about front end development
-- 📃 read my blogs on [Medium](https://medium.com/@bharathravi27)
+- 📃 read my blogs on [Medium](http://bharath-ravi.medium.com)
 
 ### Blog posts 📕
 
