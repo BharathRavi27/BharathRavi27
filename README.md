@@ -1,8 +1,6 @@
 # Hi, I am Bharath Ravi 🌟
 
-I am a javascript fullstack developer from India. Experienced in designing, developing web and mobile applications.
-
-<img src="https://raw.githubusercontent.com/BharathRavi27/BharathRavi27/master/bharath.jpeg" alt="banner of bharath ravi, frontend developer">
+I am a javascript full-stack developer from India. Experienced in designing, and developing web and mobile applications.
 
 Feel free to send a hi to <bharathravi27@gmail.com> or follow me on [twitter](https://twitter.com/_bharath_ravi).
 
